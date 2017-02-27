@@ -103,11 +103,11 @@ This list is a week-by-week guide only. Readings will likely be updated even aft
 | Feb 6       | [Abstraction](readings/Abstraction.md),  [Technical Representations](readings/Representations.md) |
 | Feb 13      | [Information Security](readings/Security.md) |
 | Feb 20      | Reading Week: No Class or Office Hours |
-| Mar 6       | Design |
-| Mar 13      | Design |
-| Mar 20      | Design |
-| Mar 27      | Refactoring,  Code Smells |
-| Apr 3       | TBD & Wrap-up |
+| Mar 6       | Design (Principles) |
+| Mar 13      | Design (Principles practice & Patterns) |
+| Mar 20      | Design (Patterns & Patterns practice)|
+| Mar 27      | Refactoring,  Code Smells (Examples and Practice)|
+| Apr 3       | Refactoring (practice) & Wrap-up |
 | Apr 28 | Final Exam @ 0830 (location TBD) |
 
 #### Labs:
